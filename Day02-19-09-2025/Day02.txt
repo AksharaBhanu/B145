@@ -1,0 +1,127 @@
+https://aksharatraining.com/python_playwright_syllabus.html
+9481787493
+
+Please use the below Zoom link to attend:
+link: https://us02web.zoom.us/j/81719989331
+Passcode: live
+
+To watch  B145 Python videos on mobile app 
+
+Link to download the mobile app
+https://aksharatraining.com/mobile-app/
+
+Please follow the steps
+
+A. Open Akshara Mobile App
+B. Click 'Batches' at the bottom of the screen
+C. Click +
+D. Enter the batch code as b145 and click OK
+
+After your batch request is approved follow the below Steps
+
+1. Open Akshara Mobile App
+2. Click Batches at the bottom of the screen
+3. Click on AITM-PYER-SEP18-B145
+4. Click Videos tab
+---------------------------------------------------------
+Python -->it is a coding language
+
+language--> computer --> computing machine --> tasking - instructions --> 
+
+
+language--> instruction given to the computer --
+Low level Lang--> 01 1101010101 binary 01  bits 8bits --1 byte 1024 1KB MB GB 
+000--> 0
+001-->1
+010--> 2
+011--> 3
+
+65--A  ASCIII 
+ADD
+
+
+
+High Level Lang--> C C++ Java Python...
+
+
+English like inputs--> 010100101--> translators 
+
+2 types --> statement --> one valid instruction --> line by line --> interpretation 
+compilation 
+
+syntax- rules of the language 
+
+compilation--> C c++ Java--> programming --> Python 
+interpretation--> Python JS BVS --> scripting languages typescript 
+
+download python software from below link
+
+https://www.python.org/downloads/
+
+
+windows location:C:\Users\ADMIN\AppData\Local\Programs\Python\Python313
+mac: /usr/local/bin/python3
+
+python --version
+where python
+
+
+how to write my 1st python code?
+1. open the cmd /terminal
+2. type python and press enter we get >>> PVM
+3. type print(1)   and press enter
+4. print('bhanu')
+5. print("Bhanu")
+
+string --> 
+
+How to write code in file , save it and execute it?
+1. open the notepad /text editor
+2. write the code --> print(7)
+3. save it as demo1.py in req location
+4. goto the place where demo1.py file is saved
+5. open the cmd
+6. execute --> python demo1.py
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,83 @@
+Same zoom link 
+https://us02web.zoom.us/j/81719989331 (Passcode: live)
+
+register in ZOOM -- Free 
+details --> https://youtu.be/3WEDDRz4Y98
+meeting id: 81719989331
+Passcode: live
+
+Python --> High level coding language
+Interpreted (line by line compilation)
+python software--> https://www.python.org/downloads/
+python --version Python 3.12.3
+C:\Users\ADMIN\AppData\Local\Programs\Python\Python313
+
+IDE --> Integrated Development Environment 
+
+1. write the code
+2. compile/interpret
+3. execute the code
+4. debug
+5. SCM (GitHub)
+6. Review 
+7. Unit testing
+8. create build
+9. deploy the build
+
+PyCharm IDE Eclipse VS Code
+
+https://www.jetbrains.com/pycharm/download
+
+install the PyCharm IDE and open it
+click on new project
+
+group of python file--> package
+to create package
+1. right click  on the project name (B145)
+2. go to new --> python package
+3. specify the name as day03 and press enter
+4. we get a folder day03 under the project 
+5. python package contains __init__.py file
+6. file--> settings--> Appearance --> change the them
+7. right click on the package --> new --> python file --> specify the name demo1 and press enter
+
+#comment 
+
+to comment multiple line 
+select multiple lines
+press ctrl + /  or cmd + /
+
+default execution order of the code is top to bottom line by line
+= is an assignment operator to store right side value to left side memory location (variable)
++ is addition operator to add 2 numeric values
+
+variable
+1. container
+2. storage space
+3. place holder
+
+to store the data
+
+in python we do not declare the variable , we directly use it to store that data (initialization)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

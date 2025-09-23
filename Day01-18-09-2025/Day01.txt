@@ -1,0 +1,85 @@
+https://aksharatraining.com/python_playwright_syllabus.html
+9481787493
+
+Please use the below Zoom link to attend:
+link: https://us02web.zoom.us/j/81719989331
+Passcode: live
+
+Python: 7PM to 8.30PM
+30days
+
+Playwright: 7PM 8.30PM
+Selenium: 8.30PM to 10pm
+
+Monday to Friday
+
+
+To watch  B145 Python videos on mobile app 
+
+Link to download the mobile app
+https://aksharatraining.com/mobile-app/
+
+Please follow the steps
+
+A. Open Akshara Mobile App
+B. Click 'Batches' at the bottom of the screen
+C. Click +
+D. Enter the batch code as b145 and click OK
+
+After your batch request is approved follow the below Steps
+
+1. Open Akshara Mobile App
+2. Click Batches at the bottom of the screen
+3. Click on AITM-PYER-SEP18-B145
+4. Click Videos tab
+
+Materials->Github
+https://github.com/AksharaBhanu/B145.git
+
+----------------------------------------------
+1. join the class on time 
+2. do miss any class 
+3. assignment --> info@aksharatraining.om
+4. home work 
+5. test/mock interview --> L1 --> Q+A  L2--> Q  L3 --> 
+6. CV preparation -1-1
+7. actual interviews 
+
+i will discuss a topic , i will write the code
+student should write the code in class 
+
+
+AI is not yet practical 
+
+1. How to test our app using AI
+
+2. How to test hybrid -- Normal +AI application 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
