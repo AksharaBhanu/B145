@@ -1,0 +1,79 @@
+every day code /notes/image--> https://github.com/aksharaBhanu/B145
+
+print--> function--> it prints the given input on the console
+input is called as--> arguments - we can send any number of arguments ,
+variable--> memory container used to store some info
+in python we do not declare a variable 
+
+int i; declaring i as a variable of type integer (numeric)
+i=100;  --> initializing i with the value 100
+
+in python we do not write --> int i XXXXX
+we directly write i=100
+
+int i;i=100;print(i);  --> 3 statements in 1 line --> this is not possible python
+in python 1 line --> 1 statement
+we do not use ;
+
+while writing the code we can have blank lines 
+but we cant give space and start the code
+code must start at the beginning of the line
+
+any name given by python user (u and me) are called as identifier 
+rule to specify identifier
+1. no keywords 
+https://docs.python.org/3/reference/lexical_analysis.html#keywords
+in python we have 35 keywords
+False      await      else       import     pass
+None       break      except     in         raise
+True       class      finally    is         return
+and        continue   for        lambda     try
+as         def        from       nonlocal   while
+assert     del        global     not        with
+async      elif       if         or         yield
+
+
+2. it can contain only a-z A-Z 0-9 _
+any upper/lowercase letter or any digit and _ 
+
+ Note: space is not allowed special char other than _ are not allowed
+
+
+3. it should NOT start with digit 
+  it can start with letter or _
+
+4. name is case sensitive
+
+5. no max limit on identifier name length 
+
+
+in python there is NO constant 
+
+we specify variable name in CAPS to indicate not to change it
+ex:
+MAX=100
+PI=3.142
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
