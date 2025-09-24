@@ -1,0 +1,43 @@
+variable is placeholder to store the data
+a=10
+
+identifier --> user defined names --> variable class function package module ....
+rule 
+1. no keywords (35)
+2. contain only a-z A-Z 0-9 _
+3. should not start with digit 
+4. case sensitive
+5. no max limit
+
+no constant in python 
+in python variable, we can store any type of data
+
+type()--> to find the data type of a variable we use 'type' function
+
+Data type--> type of information stored in a given variable
+
+code optimization --> reduce number of lines of code
+
+Numeric Data Type
+1. int--> 1 2 3 5
+2. float
+3. complex
+
+None Data Type
+ None--> it is a keyword , Data type is NoneType
+
+Boolean Data Type
+ bool --> True False
+
+Text Data type
+str --> string data type --> group of characters within single/double/triple quotes
+
+ 
+
+
+
+
+
+
+
+
