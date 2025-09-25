@@ -1,0 +1,31 @@
+Datatype: type of info 
+----------------------------------------------------------------------
+numeric
+int float complex
+
+NoneType None
+
+bool --> True False
+
+text
+string ---str --> group of char within quotes ' " '''
+
+sequential data type--> next to each other --> index
+1. list [a,b,c]--> we can modify --> mutable   modify-> add edit/update delete
+2. tuple (a,b,c)  read only list--> immutable 
+3. range --> group of sequential numbers
+
+set data type
+1. set --> group of unique elements-->mutable
+2. frozenset --> read only set --> immutable
+
+map data type
+dictionary dict
+----------------------------------------------------------------------
+binary data type
+bytes
+bytearray
+memoryview 
+
+
+
