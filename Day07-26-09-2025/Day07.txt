@@ -1,0 +1,130 @@
+DataTypes--> Type of data stored in a variable
+in python variable we can store any kind of data
+type(variable)
+
+int float complex
+NoneType
+bool
+str
+list tuple range
+set frozenset
+dict
+bytes
+
+operations --> operators --> operand
+
+print(a+b)
+operation: addition
+operator: +
+operands a & b
+
+arithmetic operators
++ addition
+- subtraction
+* multiplication
+/ division
+// floor division
+** exponentiation (power of)
+% modulus 
+
+when we have more than one operator in a given expression ,execution happens based on operator operator precedence and not from left to right
+
+
+BODMAS
+PEMDAS
+
+B --> ()
+O--> order **
+D--> Division
+M--> multiplication
+A-->addition
+S--> subtraction
+
+P--> ()
+E--> Exp
+M --> Mul
+D--> Div
+A--> add
+S--> sub
+
+B
+O
+DM
+AS
+
+P
+E
+MD
+AS
+
+-->()
+--> **
+--> * / // %  (left to right)
+--> + - (left to right)
+--------------------------------------------
+assignment operator
+=
++=
+-=
+*=
+/=
+//=
+%=
+**=
+
+Note:
+in python when we use +
+if both the inputs are number it will do addition
+if both the inputs are string it will do concatenation
+if one is number and another one is string we get error
+we can convert number into string using str()
+
+in python when we use *
+if both the inputs are number it will do multiplication
+if one is String and another one is number  it will repetition
+if both the inputs are string it will throw error
+
+to take input from user during runtime we use input function
+but it always returns the given input in string format
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
